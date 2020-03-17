@@ -7,5 +7,5 @@ class Transfer
     @amount = balance
   end
 
-  
+
 end
