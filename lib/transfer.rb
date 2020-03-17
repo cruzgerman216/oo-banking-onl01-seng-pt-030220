@@ -3,7 +3,7 @@ class Transfer
   def initialize(name, bank_account, balance)
     @sender = name
     @receiver = bank_account
-    @status = "Pending"
+    @status = "pending"
     @amount = balance
   end
 
